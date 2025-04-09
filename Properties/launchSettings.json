@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ADS103_Grishma_A00177960_Assignment2": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
